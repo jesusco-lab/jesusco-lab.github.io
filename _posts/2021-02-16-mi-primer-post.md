@@ -6,6 +6,6 @@ Este es el primer post!!
 ## Sección 1
 estoy muy emocionado
 
-![flor]({{ site.baseurl }}/images/flor.jpg)
+![pingu]({{ site.baseurl }}/images/tenor.gif)
 ### Subseccion 1
  Esto es la hostia
