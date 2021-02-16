@@ -5,6 +5,7 @@ title: Primera entrada!!!
 Este es el primer post!!
 ## Sección 1
 estoy muy emocionado
-![un pingu]({{ site.baseurl }}/images/tenor.gif)
+
+![flor]({{ site.baseurl }}/images/flor.jpg)
 ### Subseccion 1
  Esto es la hostia
